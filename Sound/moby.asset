@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a352da962b1266e47b51cff7f19f781f, type: 3}
+  m_Name: moby
+  m_EditorClassIdentifier: 
+  id: moby
+  dialogueTypingSoundClips:
+  - {fileID: 8300000, guid: 368e70ed13a308c4e9228ce79b5fbb9a, type: 3}
+  - {fileID: 8300000, guid: 99b7451ea1b1ffd48b456e0a7a1ccbd2, type: 3}
+  - {fileID: 8300000, guid: 83d0dd9c45ca0df43bb09bc63b0867d5, type: 3}
+  - {fileID: 8300000, guid: 66a64d97036f2c94c86c87303e8ad214, type: 3}
+  - {fileID: 8300000, guid: f30b48a8081f28c4d9476fffba7b2002, type: 3}
+  - {fileID: 8300000, guid: 01b318e977925fa4cb257270eaaef346, type: 3}
+  frequencyLevel: 7
+  minPitch: 0.47
+  maxPitch: 0.76
+  stopAudioSource: 1
